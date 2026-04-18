@@ -46,16 +46,20 @@ Decrypted: SecureMessage_Samyak_2026
 ## 📁 Project Structure
 
 Encryption_Decryption_Tool/
-- main.py  
-- secret.key  
-- encrypted_output.txt  
-- decrypted_output.txt  
-- base64_encoded.txt  
-- base64_decoded.txt  
-- logs.txt  
-- README.md  
-- Encryption_Decryption_Report.pdf  
-- screenshots/  
+│── main.py
+│── requirements.txt   👈 add this
+│── secret.key
+│── encrypted_output.txt
+│── decrypted_output.txt
+│── base64_encoded.txt
+│── base64_decoded.txt
+│── logs.txt
+│── README.md
+│── Encryption_Decryption_Report.pdf
+│── screenshots/
+    │── encrypt_decrypt.png
+    │── base64.png
+    │── logs.png  
 
 ---
 
