@@ -54,7 +54,7 @@ Encryption_Decryption_Tool/
 - base64_decoded.txt  
 - logs.txt  
 - README.md  
-- report.pdf  
+- Encryption_Decryption_Report.pdf  
 - screenshots/  
 
 ---
