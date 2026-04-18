@@ -1,0 +1,34 @@
+
+
+======================================================================
+Timestamp : 2026-04-17 22:28:25
+Action    : Fernet Encrypt
+Status    : SUCCESS
+Input     : SecureMessage_Samyak_2026
+Output    : gAAAAABp4maxTqbVXvT7sgdoywsfoNrUkn4ZE2pr0V_hfPeC2oDoK6Ro5mPjOgr2bBRaqPs6ZNKM4EZYUnOypqI5M9IGKPuFiaQRUCbCJCG52TAj2Lgo6jc=
+======================================================================
+
+======================================================================
+Timestamp : 2026-04-17 22:28:44
+Action    : Fernet Decrypt
+Status    : SUCCESS
+Input     : gAAAAABp4maxTqbVXvT7sgdoywsfoNrUkn4ZE2pr0V_hfPeC2oDoK6Ro5mPjOgr2bBRaqPs6ZNKM4EZYUnOypqI5M9IGKPuFiaQRUCbCJCG52TAj2Lgo6jc=
+Output    : SecureMessage_Samyak_2026
+======================================================================
+
+======================================================================
+Timestamp : 2026-04-17 22:29:58
+Action    : Base64 Encode
+Status    : SUCCESS
+Input     : PrivateData_Samyak_03
+Output    : UHJpdmF0ZURhdGFfU2FteWFrXzAz
+======================================================================
+
+======================================================================
+Timestamp : 2026-04-17 22:30:06
+Action    : Base64 Decode
+Status    : SUCCESS
+Input     : UHJpdmF0ZURhdGFfU2FteWFrXzAz
+Output    : PrivateData_Samyak_03
+======================================================================
+
